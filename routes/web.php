@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('UserProfile');
+    return view('register');
 });
